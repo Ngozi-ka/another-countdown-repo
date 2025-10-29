@@ -4,7 +4,7 @@ const hours = document.querySelector(".hours");
 const minutes = document.querySelector(".minutes");
 const seconds = document.querySelector(".seconds");
 
-const startDay = "1 Jan 2025";
+const startDay = "1 Jan 2026";
 
 function countdown(){
     const currentDay = new Date();

@@ -6,7 +6,6 @@
 
 body{
     background: navy;
-    color: aliceblue;
 }
 
 .container{
@@ -33,6 +32,7 @@ body{
 .container h2{
     font-size: 3rem;
     margin-bottom: 2rem;
+    color: palevioletred;
 }
 
 .count span{
@@ -43,4 +43,5 @@ body{
 .count p{
     font-weight: 600;
     letter-spacing: 1px;
+    color: aliceblue;
 }
